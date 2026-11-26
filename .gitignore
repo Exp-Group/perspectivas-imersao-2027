@@ -1,0 +1,9 @@
+.DS_Store
+.vercel
+node_modules/
+dist/
+qa/shots/
+*.log
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
